@@ -37,6 +37,8 @@ alert_sound.wav: Asteroid proximity alert.
 
 
 Place assets in the same directory as the script or handle missing assets with fallback rendering.
+
+
 Installation
 
 Clone the repository:git clone <repository-url>
